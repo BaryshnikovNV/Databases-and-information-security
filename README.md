@@ -10,3 +10,10 @@
 11.3. [ELK](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/11-03.md)
 
 11.4. [Очереди RabbitMQ](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/11-04.md)
+
+
+## Модуль 12. «Реляционные базы данных и администрирование баз данных»
+
+1. [Базы данных](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/12-01.md).
+
+2. [Работа с данными (DDL/DML)](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/12-02.md).
