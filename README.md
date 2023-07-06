@@ -14,6 +14,6 @@
 
 ## Модуль 12. «Реляционные базы данных и администрирование баз данных»
 
-1. [Базы данных](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/12-01.md)
+12.1. [Базы данных](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/12-01.md)
 
-2. [Работа с данными (DDL/DML)](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/12-02.md)
+12.2. [Работа с данными (DDL/DML)](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/12-02.md)
