@@ -1,7 +1,7 @@
 # Домашние задания по курсу «Базы данных и информационная безопасность»
 
 
-## Модуль 11. Системы хранения и передачи данных
+## Модуль 11. «Системы хранения и передачи данных»
 
 11.1. [Базы данных, их типы](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/11-01.md)
 
@@ -17,3 +17,5 @@
 12.1. [Базы данных](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/12-01.md)
 
 12.2. [Работа с данными (DDL/DML)](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/12-02.md)
+
+12.3. [SQL. Часть 2](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/12-03.md).
