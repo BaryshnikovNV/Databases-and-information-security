@@ -1,0 +1,23 @@
+input {
+  file {
+    path => "/var/log/nginx/access.log"
+    start_position => "beginning"
+  }
+}
+filter {
+    grok {
+    match => { "message" => "%{IPORHOST:remote_ip} - %{DATA:user_name}
+    \[%{HTTPDATE:access_time}\] \"%{WORD:http_method} %{DATA:url}
+    HTTP/%{NUMBER:http_version}\" %{NUMBER:response_code} %{NUMBER:body_sent_bytes}
+    \"%{DATA:referrer}\" \"%{DATA:agent}\"" }
+    }
+    mutate {
+        remove_field => [ "host" ]
+    }
+}
+output {
+    elasticsearch {
+        hosts => "https://localhost:9200"
+        data_stream => "true"
+    }
+}
