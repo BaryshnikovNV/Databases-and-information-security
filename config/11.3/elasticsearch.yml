@@ -1,0 +1,14 @@
+---
+cluster.name: baryshnikov
+node.name: node-1
+node.roles:
+  - master
+  - data
+  - ingest
+cluster.initial_master_nodes:
+  - node-1
+discovery.seed_hosts:
+  - localhost
+path.data: /var/lib/elasticsearch
+path.logs: /var/log/elasticsearch
+network.host: 0.0.0.0
