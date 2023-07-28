@@ -29,3 +29,5 @@
 12.7. [Репликация и масштабирование. Часть 2](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/12-07.md)
 
 12.8. [Резервное копирование](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/12-08.md)
+
+12.9. [Базы данных в облаке](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/12-09.md)
