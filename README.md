@@ -31,3 +31,8 @@
 12.8. [Резервное копирование](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/12-08.md)
 
 12.9. [Базы данных в облаке](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/12-09.md)
+
+
+## Модуль 13. «Информационная безопасность»
+
+13.1. [Уязвимости и атаки на информационные системы](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/13-01.md).
