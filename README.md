@@ -36,3 +36,5 @@
 ## Модуль 13. «Информационная безопасность»
 
 13.1. [Уязвимости и атаки на информационные системы](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/13-01.md)
+
+13.2. [Защита хоста](https://github.com/BaryshnikovNV/Databases-and-information-security/blob/main/13-02.md)
